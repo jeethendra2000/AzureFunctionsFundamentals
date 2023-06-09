@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctionExample1", "AzureFunctionExample1\AzureFunctionExample1.csproj", "{7DC22249-EFD8-44C5-AF11-C4BC09EA8ECB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureTangyFunction", "AzureTangyFunction\AzureTangyFunction.csproj", "{A987DEE6-EB32-4C92-B3EE-24695BF1B60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC22249-EFD8-44C5-AF11-C4BC09EA8ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC22249-EFD8-44C5-AF11-C4BC09EA8ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC22249-EFD8-44C5-AF11-C4BC09EA8ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC22249-EFD8-44C5-AF11-C4BC09EA8ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A987DEE6-EB32-4C92-B3EE-24695BF1B60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A987DEE6-EB32-4C92-B3EE-24695BF1B60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A987DEE6-EB32-4C92-B3EE-24695BF1B60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A987DEE6-EB32-4C92-B3EE-24695BF1B60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22883A10-5CD2-459D-8C80-31AA4648F21C}
+	EndGlobalSection
+EndGlobal
